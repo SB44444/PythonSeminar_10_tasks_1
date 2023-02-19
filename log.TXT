@@ -1,0 +1,22 @@
+User ID: 1209157259, Input Data: 5 + 5, Result: 10.0
+User ID: 1209157259, Input Data: 3 + 3, Result: 6.0
+User ID: 1209157259, Input Data: 2500  0.5 - 4 + 2  2 - 10 / 7 * 10, Result: 2500.0
+User ID: 1209157259, Input Data: -6+5/3, Result: -4.3333
+User ID: 1209157259, Input Data: -6 - 5.5 + 5.44 * 12 / 3, Result: 10.26
+User ID: 1209157259, Input Data: 2500 * 0.5 - 4 + 2 * 2 - 10 / 7 * 10, Result: 1235.7143
+User ID: 1209157259, Input Data: -584+54/5-5/3, Result: -574.8667
+User ID: 1209157259, Input Data: 5+8654-3/856 + 85*90, Result: 16308.9965
+User ID: 1209157259, Input Data: 48+65, Result: 113.0
+User_ID: 1209157259, User_Input: 35+5-63/8, Count_Result: 32.125
+User_ID: 1209157259, User_Input: 2500 * 0.5 - 4 + 2 * 3.15 - 10 / 7, Count_Result: 1250.8714
+User_ID: 1209157259, User_Input: 458+5-6/0, Count_Result: 457.0
+User_ID: 1209157259, User_Input: 458+5-6/0 +100, Count_Result: 457.0
+User_ID: 1209157259, User_Input: 5+45, Count_Result: 50.0
+User_ID: 1209157259, User_Input: 4587/6+85, Count_Result: 849.5
+User_ID: 1209157259, User_Input: 254/5+5/0+6, Count_Result: 55.8
+User_ID: 1209157259, User_Input: 587+684+2, Count_Result: 1273.0
+User_ID: 1209157259, User_Input: -584+54/5-5/3, Count_Result: -574.8667
+User_ID: 1209157259, User_Input: -5+5*4-68/9.7-8+3, Count_Result: 2.9897
+User_ID: 1209157259, User_Input: -5+5*4-68/9.7-8+3, Count_Result: 2.9897
+User_ID: 1209157259, User_Input: 5+5*4-68/9.7-8+3*7, Count_Result: 30.9897
+User_ID: 1209157259, User_Input: 2500 * 0.5 - 4 + 2 * 3.15 - 10 / 7 * 10, Count_Result: 1238.0143
