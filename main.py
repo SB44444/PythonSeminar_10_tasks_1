@@ -4,7 +4,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, Callb
 from loger import user_ID, count_loger, user_input, count_result
 from counter import count
 
-TOKEN = '5926131823:AAHc4q-p6NG4XH67sT-Xjqws9xWTNroewYI'
+TOKEN = ''
 
 bot = Bot(TOKEN)   
 updater = Updater(TOKEN)
